@@ -26,11 +26,14 @@ import datetime
 ### Graphs
 ![graph1](/outputimg/graph1.png)
 
-
 ![graph2](/outputimg/graph2.png)
 
 ![graph3](/outputimg/graph3.png)
 
+![graph4](/outputimg/graph4.png)
+
+![graph5](/outputimg/graphy5.png)
+![graph5](/outputimg/houseprice_compare.png)
 
 
 ### Analysis and discussion
