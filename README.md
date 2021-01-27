@@ -25,15 +25,16 @@ import datetime
 
 ### Graphs
 ![graph1](/outputimg/graph1.png)
-
 ![graph2](/outputimg/graph2.png)
-
 ![graph3](/outputimg/graph3.png)
-
 ![graph4](/outputimg/graph4.png)
-
 ![graph5](/outputimg/graphy5.png)
-![graph5](/outputimg/houseprice_compare.png)
+![graph6](/outputimg/houseprice_compare.png)
+![linear1](/outputimg/linear1.png)
+![linear2](/outputimg/linear2.png)
+![linear3](/outputimg/linear3.png)
+
+
 
 
 ### Analysis and discussion
