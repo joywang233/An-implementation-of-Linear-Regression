@@ -22,6 +22,17 @@ import matplotlib.pyplot as plt
 import datetime
 ```
 
+
+### Graphs
+![graph1](/outputimg/graph1.png)
+
+
+![graph2](/outputimg/graph2.png)
+
+![graph3](/outputimg/graph3.png)
+
+
+
 ### Analysis and discussion
 
 To summarize, from the GDP, interest rate and house price data in the past 20 years we can see that there are linear correlations in between the variables, this can be used for predicting the future socio-economical conditions of a country.
@@ -32,7 +43,7 @@ Dring 2020 covid-19, the govenrment has took earlier actions to reduce the inter
 
 ### Future Work
 
-To improve the performance of our model and predict the future GDP trendency, other stronger indicators(maybe second industry data) can be added to enhence the result. This could be achieved from a multiple linear regression model.
+To improve the performance of our model and predict the future GDP trendency, other stronger indicators(maybe second industry data) can be added to enhence the result. This could be achieved through a decision tree model.
 
 
 
