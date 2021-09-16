@@ -1,4 +1,4 @@
-# An-implementation-of-Linear-Regression
+# Predicting houseing price during Covid19 in Australia
 Compare and predict house price fro AUS and USA between 2008 financial crisis and 2020 Covid19
 
 ### Scenario: 
